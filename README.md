@@ -88,7 +88,13 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## 🌟 About Me
 
+Hi there! I'm **Tchindje Eric**, also known as **DataPro Geek**. I’m an IT professional and passionate about data Analytics, Machine and Deep Learning!
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-tchindje)
 
 ## 🛡️ License
 
